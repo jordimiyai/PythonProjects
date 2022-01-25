@@ -110,6 +110,8 @@ def principal():
     pausar()
     print('{:^80}'.format('~ * ' * 5 + 'NUEVO RANKING' + ' * ~' * 5 + '\n'))
 
+
+
     # mostramos nuevamente el ranking actualizado
     mostrar_competidores(competidores)
 
